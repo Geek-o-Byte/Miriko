@@ -1,0 +1,12 @@
+{
+  "name": "Marucho",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/Geek-o-Byte/Marucho.git",
+  "author": "Geek-o-Byte <mmiwf16@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.53.0",
+    "style-dictionary": "^3.7.1"
+  }
+}
