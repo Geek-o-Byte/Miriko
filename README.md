@@ -1,3 +1,3 @@
-# Miriko
+# Marucho
 
 Toolkit for webdesign
