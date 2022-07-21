@@ -1,6 +1,6 @@
 # Marucho
 
-![marucho](https://thisanimedoesnotexist.ai/results/psi-2.0/seed20682.png)
+<img src="https://thisanimedoesnotexist.ai/results/psi-2.0/seed20682.png" alt="marucho" width="300" />
 
 Toolkit for webdesign
 
