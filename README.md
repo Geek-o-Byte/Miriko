@@ -1,2 +1,3 @@
 # Miriko
-Website analysis library
+
+Toolkit for webdesign
